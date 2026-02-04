@@ -27,6 +27,7 @@
 
 ## Tools & Platforms
 
+- **[Remove Carbon Today](https://www.removecarbontoday.com):** Makes certified, durable, ex-post carbon removal accessible to individuals worldwide with public registry proof.
 - **[Pachama](https://pachama.com/):** Carbon offset marketplace using satellite data and AI to verify forest conservation.
 - **[Sylvera](https://www.sylvera.com/):** Carbon credit ratings platform offering data-driven analysis of offset projects.
 - **[Watershed](https://watershed.com/):** End-to-end carbon accounting and reduction platform for companies.
